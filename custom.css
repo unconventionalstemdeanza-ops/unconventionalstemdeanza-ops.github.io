@@ -32,3 +32,36 @@
 main > h2 {
     margin-top: 3rem;
 }
+/* Section spacing */
+main > h2 {
+    margin-top: 3rem;
+}
+
+/* Header */
+header h1 {
+    margin-bottom: 0.75rem;
+}
+
+header > p {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.6;
+}
+
+/* Main text */
+main > p {
+    line-height: 1.7;
+}
+
+/* Connect buttons */
+.connect-links {
+    margin-top: 1rem;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+    main > h2 {
+        margin-top: 2rem;
+    }
+}
