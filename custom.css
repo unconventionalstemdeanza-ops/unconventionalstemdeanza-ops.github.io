@@ -65,3 +65,15 @@ main > p {
         margin-top: 2rem;
     }
 }
+header nav a {
+    border: none;
+    background: none;
+    padding: 0.5rem 0.25rem;
+    text-decoration: none;
+}
+header nav {
+    gap: 1.25rem;
+}
+header nav a:hover {
+    text-decoration: underline;
+}
