@@ -15,3 +15,17 @@
     text-decoration: none;
     font-weight: 600;
 }
+.connect-links {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+}
+
+.connect-links a {
+    display: inline-block;
+    padding: 0.6rem 1rem;
+    border: 1px solid currentColor;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+}
