@@ -70,6 +70,7 @@ header nav a {
     background: none;
     padding: 0.5rem 0.25rem;
     text-decoration: none;
+    font-weight: 600;
 }
 header nav {
     gap: 1.25rem;
